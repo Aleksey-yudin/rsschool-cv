@@ -17,6 +17,15 @@ While I was searching for answers to these questions, the Internet has presented
 
 And so finally, having tasted UX/UI, I came back to become a great Frontend developer.
 
+Skills and Proficiency:
+HTML5, CSS3
+JavaScript
+GitHub
+VS Code
+Figma, Adobe Photoshop, Illustrator,
 
+Languages:
+Russian - Native
+English - A1
 
 
