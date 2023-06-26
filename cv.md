@@ -22,7 +22,9 @@ HTML5, CSS3
 JavaScript
 GitHub
 VS Code
-Figma, Adobe Photoshop, Illustrator,
+Figma, Adobe Photoshop, Illustrator
+
+Experience:
 
 Languages:
 Russian - Native
