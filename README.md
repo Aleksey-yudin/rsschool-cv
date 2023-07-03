@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://aleksey-yudin.github.io/rsschool-cv/cv
+https://aleksey-yudin.github.io/rsschool-cv
