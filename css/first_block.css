@@ -1,0 +1,36 @@
+.first-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.photo {
+    width: 420px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.40);
+}
+
+.name {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 52px;
+    line-height: 60px;
+    letter-spacing: 0.2em;
+    margin-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 20px;
+}
+
+.job {
+    padding-right: 20px;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 105%;
+    letter-spacing: 0.13em;
+    color: #818181;
+}
+
+.cv__subtitle_text {
+    color: #B055FF;
+}
