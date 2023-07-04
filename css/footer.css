@@ -1,0 +1,31 @@
+.footer {
+    height: 100px;
+    background-color: #141414;
+    color: #fafafa;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.footer__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 33px;
+    
+}
+
+.footer__left {
+    display: flex;
+    align-items: center;
+}
+
+.git-img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.rs-logo {
+    width: 100px;
+}
+
